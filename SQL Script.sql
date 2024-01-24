@@ -4,8 +4,11 @@ CREATE DATABASE IF NOT EXISTS cleaning_project;
 -- Selecting the DDBB to be used
 USE cleaning_project;
 
--- Looking at the Whole table
+-- Here is where you upload the data, with the python script that i leave you in the repo
+-- Or if you know how to upload an excel file in MySQL directly
+
 -- (i'm going to let a python script to create the table and upload the data)
+-- Looking at the Whole table
 SELECT * FROM housing_data;
 
 
