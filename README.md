@@ -38,6 +38,39 @@ Technologies used in the project:
 * MySQL
 
 
+<h2> Documentation </h2>
+
+<p>You will have 2 options to proceed at this project
+
+Let's assume that you already have the necessary programs and libraries.</p>
+
+<p>If you know how to upload an excel file into MySQL
+<h4> Option 1: </h4>
+
+You will use only MySQL
+
+Step 1: Create the DB in MySQL.
+
+Step 2: Upload the file into a table.
+
+Step 3: Execute one by one the SQL Queries.
+</p>
+
+<p>If you don't know how to upload an excel file into MySQL
+<h4> Option 2: </h4>
+You will use Mysql, and the Python Script
+
+Step 1: Create the DB.
+
+Step 2: Fill the needed values in the Python Script, to be able to execute it
+(inside the script it will say where are the fields).
+
+Step 3: Execute the Python Script.
+
+Step 4: Execute one by one the SQL Queries.
+</p>
+
+
 <h2> Description </h2>
 
 <p>In this project we download a dataset in an excel format, that brings housing data of Nashville,
